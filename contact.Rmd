@@ -1,0 +1,39 @@
+---
+pagetitle: "Iman Nazari"
+title: "<b style='color:black;'>Contact me</b>"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      message = FALSE,
+                      error = FALSE,
+                      warning = FALSE, 
+                      fig.align = "center")
+```
+
+***
+
+<p style='font-size:15px;' align='justify'> If you wish so, don't hesitate to contact me by: </p>
+
+
+<p style='color:black; font-size:15px;'> <i class="fas fa-home" aria-hidden="true"></i> &nbsp; <b>Shiraz(Iran) - Milan (Italy)</b> </p>
+
+<p style="color: black; font-size:15px;"><i class="fas fa-building" aria-hidden="true"></i> &nbsp; <b>Istituto Europeo di Oncologia - IEO (Milan)</b> </p>
+
+<p style='color:black; font-size:15px;'> <i class="fas fa-at" aria-hidden="true"></i> &nbsp; <b>nazariiman38@gmail.com</b> </p>
+<p style='color:black; font-size:15px;'> <i class="fas fa-at" aria-hidden="true"></i> &nbsp; <b>iman.nazari@ieo.it</b> </p>
+
+<p style='color:black; font-size:15px;'> <i class="fa fa-github" aria-hidden="true"></i> &nbsp; <a href="https://github.com/parsboy66"><b>/parsboy66</b></a></p> 
+
+
+<p style='color:black; font-size:15px;'><i class="fa fa-twitter" aria-hidden="true"></i> &nbsp; <a href="https://twitter.com/parsboy66"><b>@parsboy66</b></a></p>
+
+<br>
+
+
+
+
+
+<br><br><br><br>
+<br><br><br><br>
+<br><br><br><br>

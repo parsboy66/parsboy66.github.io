@@ -1,0 +1,21 @@
+name: "Iman Nazari"
+output_dir: "."
+navbar:
+  title: "Iman Nazari"
+  type: inverse
+  left:
+    - text: "Curriculum"
+      icon: fa-file-invoice
+      menu:
+      - text: "Download"
+        href: download_cv.html
+  right:
+    - icon: fa-address-card fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/parsboy66
+output:
+  html_document:
+    theme: cerulean
+    
+    
